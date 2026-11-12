@@ -7,3 +7,16 @@ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main
 https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt
 https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_lite.txt
 https://github.com/zieng2/wl/blob/main/vless_universal.txt
+https://raw.githubusercontent.com/vladvarp/Prometheus/refs/heads/main/WhiteList/vless.txt
+https://raw.githubusercontent.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt
+https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_lite.txt
+https://raw.githubusercontent.com/gooseteam-hackers/GooseVPN/refs/heads/main/configs/balanced.txt
+https://raw.githubusercontent.com/OceaniaVPN/StekloVPN/main/configs/whitelist.txt
+https://raw.githubusercontent.com/gooseteam-hackers/GooseVPN/refs/heads/main/configs/plus.txt
+https://raw.githubusercontent.com/flaafix/AetrisVPN-white-list-lite/refs/heads/main/AetrisVPN.txt
+https://etoneya.su/whitelist
+https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta6.txt
+https://vpn.akres.fun/bwl
+https://raw.githubusercontent.com/Diversan313/apex-parser/main/subs/main/alive_bs.txt
+https://sub.vlessfo.ru/vlessforu/working_configs.txt
+https://gitverse.ru/api/repos/272/wl/raw/branch/master/whitelist
