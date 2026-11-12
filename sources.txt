@@ -22,3 +22,4 @@ https://sub.vlessfo.ru/vlessforu/working_configs.txt
 https://gitverse.ru/api/repos/272/wl/raw/branch/master/whitelist
 https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt
 https://raw.githubusercontent.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/refs/heads/main/url_work.txt
+https://yt.etoneya.baby/
