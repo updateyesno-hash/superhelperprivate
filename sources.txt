@@ -26,3 +26,6 @@ https://yt.etoneya.baby/
 https://gitverse.ru/api/repos/Pizduk/PizdukVPN/raw/branch/master/sub.txt
 https://gitverse.ru/api/repos/ru-wbl/wl/raw/branch/master/KvRuVPN/KvRuVPN.txt
 https://gitverse.ru/api/repos/flaafix/AetrisVPN_white_list_lite/raw/branch/master/AetrisVPN.txt
+https://raw.githubusercontent.com/FLAT447/v2ray-lists/refs/heads/main/WHITE_FULL.txt
+https://raw.githubusercontent.com/FLAT447/v2ray-lists/refs/heads/main/BLACK_FULL.txt
+https://raw.githubusercontent.com/histeenn/VLESS-PO-GRIBI/refs/heads/main/deploy/sub.txt
