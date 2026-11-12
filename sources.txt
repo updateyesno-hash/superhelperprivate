@@ -38,3 +38,4 @@ https://raw.githubusercontent.com/wlunlocker/vpn-configs/main/blacklist_all.txt
 https://vless.svinakraft.workers.dev/Top500.txt
 https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#Common-list@subzio
 https://raw.githubusercontent.com/Subzio/subzio/main/ALIVE.txt#ALIVE@subzio
+https://raw.githubusercontent.com/flaafix/AetrisVPN-black-list/refs/heads/main/configs.txt
