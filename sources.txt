@@ -29,3 +29,12 @@ https://gitverse.ru/api/repos/flaafix/AetrisVPN_white_list_lite/raw/branch/maste
 https://raw.githubusercontent.com/FLAT447/v2ray-lists/refs/heads/main/WHITE_FULL.txt
 https://raw.githubusercontent.com/FLAT447/v2ray-lists/refs/heads/main/BLACK_FULL.txt
 https://raw.githubusercontent.com/histeenn/VLESS-PO-GRIBI/refs/heads/main/deploy/sub.txt
+https://raw.githubusercontent.com/aviamastersgh/vpn-free-russia/main/all_configs.txt
+https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/speed_tested.txt
+https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/ping_tested.txt
+https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/non_ru.txt
+https://raw.githubusercontent.com/wlunlocker/vpn-configs/main/whitelist_all.txt
+https://raw.githubusercontent.com/wlunlocker/vpn-configs/main/blacklist_all.txt
+https://vless.svinakraft.workers.dev/Top500.txt
+https://raw.githubusercontent.com/Subzio/subzio/main/WHITE_LIST_PROXY_COLLECTION.txt#Common-list@subzio
+https://raw.githubusercontent.com/Subzio/subzio/main/ALIVE.txt#ALIVE@subzio
