@@ -23,3 +23,6 @@ https://gitverse.ru/api/repos/272/wl/raw/branch/master/whitelist
 https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt
 https://raw.githubusercontent.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/refs/heads/main/url_work.txt
 https://yt.etoneya.baby/
+https://gitverse.ru/api/repos/Pizduk/PizdukVPN/raw/branch/master/sub.txt
+https://gitverse.ru/api/repos/ru-wbl/wl/raw/branch/master/KvRuVPN/KvRuVPN.txt
+https://gitverse.ru/api/repos/flaafix/AetrisVPN_white_list_lite/raw/branch/master/AetrisVPN.txt
